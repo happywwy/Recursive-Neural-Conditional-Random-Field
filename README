@@ -1,0 +1,48 @@
+********************README**************************************************************************
+
+This is an instruction file for successfully running the RNCRF model of the paper
+published in EMNLP 2016:
+https://www.aclweb.org/anthology/D/D16/D16-1059.pdf
+
+****************************************************************************************************
+
+This code makes use of "python-crfsuite", which wraps CRFsuite C++ API using Cython.
+Contributing:
+"python-crfsuite": https://python-crfsuite.readthedocs.io/en/latest/         licensed under MIT license
+"CRFsuite": http://www.chokkan.org/software/crfsuite/                        licensed under BSD license
+
+The recursive neural network (RNN) is implemented using python based on QANTA for question answering:
+https://cs.umd.edu/~miyyer/qblearn/
+
+****************************************************************************************************
+
+Please follow these steps to install CRF software and make corresponding modifications
+in order to be executable with RNN implementation in python.
+
+1. Download python-crfsuite package (this should also include original CRFsuite package)
+
+2. Replace original 'crfsuite' folder with the provided modified folder 'crfsuite'
+
+3. Make some modifications to the files in folder 'pycrfsuite':
+   - Replace the file '_pycrfsuite.pyx' with provided one with the same name in the folder 'mod_pycrfsuite'
+   - Replace the file 'crfsuite_api.pxd' with provided one with the same name in the folder 'mod_pycrfsuite'
+
+4. Run the following command to generate cpp file from pycrfsuite.pyx file:
+   $ ./update_cpp.sh
+
+5. Run the following command to install the modified version of python-crfsuite:
+   $ python setup.py install
+
+***************************************************************************************************
+
+Now we are ready to build RNCRF model for  trainin and evaluation:
+
+1. Locate to folder 'util':
+   - Download Stanford dependency tree parser (stanford-corenlp-3.5.1)
+   - Run '10depParse.py' to generate dependency trees for each sentence using stanford parser
+   - Run '20dtreeLabel.py' to build tree object for each sentence 
+   - Run '30word_embedding.py' to generate pre-trained word embedding dictionary. In order to run this file, please make sure to obtain the pre-trained word vectors from word2vec first
+
+2. Run 'train_depnn.py' to pre-train recursive neural network without CRF first
+
+3. Run 'train_RNCRF_laptop.py' to train RNCRF and make evaluations.
