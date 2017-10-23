@@ -1,0 +1,23 @@
+Introduction
+This annotation dataset is firstly used in the paper 
+"Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis". 
+
+The annotations are made on the customer review dataset from SemEval Challenge 2014 Task 4 Subtask 1. 
+The annotation from the challenge only contains aspect term labels. 
+We create opinion term labels for the same customer review sentences.
+
+Description
+The annotation contains four files corresponding to customer reviews from two different domains for both training and testing. 
+For training, one file contains opinion term annotations for 3044 training sentences for restaurant reviews, 
+and the other file contains opinion term annotations for 3048 sentences for laptop reviews. 
+(These reviews are the same as the ones in the challenge.) 
+Each line in the annotation file lists all the opinion terms separated by ",". 
+Each opinion term is followed by "+1" or "-1" indicating the opinion polarity. 
+The order of the annotations is in line with the order of the original review texts for each domain. 
+"NIL" indicates there is no explicit opinions for the corresponding review text.
+
+Citation
+If you would like to use this annotation dataset, please cite the following paper
+"Recursive Neural Conditional Random Fields for Aspect-based Sentiment Analysis"
+Wenya Wang, Sinno Jialin Pan, Daniel Dahlmeier and Xiaokui Xiao
+In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP-16)
