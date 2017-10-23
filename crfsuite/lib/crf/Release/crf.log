@@ -1,0 +1,55 @@
+﻿Build started 2015/10/5 13:05:22.
+Project "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\crf\crf.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating "Release\crf.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\include" /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\win32" /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\crf\include" /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\win32\liblbfgs" /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\cqdb\include" /Zi /nologo /W1 /WX- /Ox /Ob2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /fp:except /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt src\crf1d_encode.c src\crfsuite.c src\crfsuite_train.c src\dataset.c src\dictionary.c src\holdout.c src\logging.c src\params.c src\quark.c src\rumavl.c src\crf1d_context.c src\crf1d_feature.c src\crf1d_model.c src\crf1d_tag.c src\train_arow.c src\train_averaged_perceptron.c src\train_l2sgd.c src\train_lbfgs.c src\train_passive_aggressive.c
+  crf1d_encode.c
+  crfsuite.c
+  crfsuite_train.c
+  dataset.c
+  dictionary.c
+  holdout.c
+  logging.c
+  params.c
+  quark.c
+  rumavl.c
+  crf1d_context.c
+  crf1d_feature.c
+  crf1d_model.c
+  crf1d_tag.c
+  train_arow.c
+  train_averaged_perceptron.c
+  train_l2sgd.c
+  train_lbfgs.c
+  train_passive_aggressive.c
+Lib:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\crf.lib" lbfgs.lib /LIBPATH:"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\win32\liblbfgs" /NOLOGO /LTCG Release\crf1d_encode.obj
+  Release\crfsuite.obj
+  Release\crfsuite_train.obj
+  Release\dataset.obj
+  Release\dictionary.obj
+  Release\holdout.obj
+  Release\logging.obj
+  Release\params.obj
+  Release\quark.obj
+  Release\rumavl.obj
+  Release\crf1d_context.obj
+  Release\crf1d_feature.obj
+  Release\crf1d_model.obj
+  Release\crf1d_tag.obj
+  Release\train_arow.obj
+  Release\train_averaged_perceptron.obj
+  Release\train_l2sgd.obj
+  Release\train_lbfgs.obj
+  Release\train_passive_aggressive.obj
+  "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\cqdb.lib"
+  crf.vcxproj -> C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\crf.lib
+FinalizeBuildStatus:
+  Deleting file "Release\crf.unsuccessfulbuild".
+  Touching "Release\crf.lastbuildstate".
+Done Building Project "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\crf\crf.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.45

@@ -1,0 +1,22 @@
+﻿Build started 2015/10/5 13:05:20.
+Project "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\cqdb\cqdb.vcxproj" on node 2 (build target(s)).
+PrepareForBuild:
+  Creating directory "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\".
+InitializeBuildStatus:
+  Creating "Release\cqdb.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\include" /I"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\win32" /Iinclude /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt src\cqdb.c src\lookup3.c
+  cqdb.c
+  lookup3.c
+Lib:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\cqdb.lib" /NOLOGO /LTCG Release\cqdb.obj
+  Release\lookup3.obj
+  cqdb.vcxproj -> C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\Release\cqdb.lib
+FinalizeBuildStatus:
+  Deleting file "Release\cqdb.unsuccessfulbuild".
+  Touching "Release\cqdb.lastbuildstate".
+Done Building Project "C:\Users\hxy\Downloads\crfsuite-master\crfsuite-master\lib\cqdb\cqdb.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.15
