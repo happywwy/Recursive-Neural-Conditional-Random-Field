@@ -1,0 +1,56 @@
+training command:
+learn -a "l2sgd" -p max_iterations=50  -m CoNLL2000.model crfnn_train.txt
+
+tagging command:
+tag -m CoNLL2000.model crfnn_test.txt
+
+dumping command:
+tag -m CoNLL2000.model crfnn_test.txt
+
+evaluating command:
+tag -m CoNLL2000.model -qt crfnn_test.txt
+
+
+crf1d_feature.c
+
+add:
+#include <math.h>
+
+in function featureset_generate change:
+minfreq <= f->freq to minfreq <= fabs(f->freq)  (2 locations)
+
+crfsuite_train.c
+
+under function static int crfsuite_train_train, add parameter:
+floatval_t *w
+delete parameter initialization:
+floatval_t *w=NULL
+
+train_l2sgd.c
+
+under function crfsuite_train_l2sgd, add: 
+w_cal = (*ptr_w)
+	w_sgd = (*ptr_w)
+under function l2sgd_calibration, delete:
+vecset(w, 0, K)
+under function l2sgd, delete:
+vecset(w, 0, K)
+under function crfsuite_train_l2sgd, delete:
+floatval_t *w = NULL; add:
+floatval_t *w_cal = NULL;
+	floatval_t *w_sgd = NULL;
+delete:
+w = (floatval_t*)calloc(sizeof(floatval_t), K);
+change parameter in l2sgd from w to w_sgd
+
+crf1d_encode.c
+
+add library #include "vecmath.h"
+add function crf1de_observation_expectation_feature
+add function crf1d_model_expectation_feature
+
+under function encoder_objective_and_gradients, add variables and their values
+
+add function crf1de_model_expectation_feature
+w_cal = (floatval_t*)calloc(sizeof(floatval_t), K);
+	w_sgd = (floatval_t*)calloc(sizeof(floatval_t), K);
