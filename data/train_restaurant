@@ -10,11 +10,11 @@ outstanding +1, terrific +1, chewy +1, gummy -1
 good +1
 NIL
 forgot -1, left out -1, over cooked -1
-perfect +1
+NIL
 good +1
 NIL
 recommend +1
-best +1
+best +1, like +1
 great +1
 fast +1
 NIL
@@ -35,7 +35,7 @@ best +1, warm +1, friendly +1, fast +1
 NIL
 great +1, rough -1
 incredible +1, warm +1, friendly +1
-great +1
+great +1, reasonable +1
 NIL
 NIL
 NIL
@@ -49,7 +49,7 @@ worth +1
 NIL
 romantic +1, cozy +1
 amazing +1
-excellent +1, delicious +1
+excellent +1, out of this world +1
 perfect +1, amazing +1
 cool +1, prompt +1, curtious +1
 mild +1
@@ -68,17 +68,17 @@ enjoying +1
 fabulous +1, fantastic +1, chilled out +1
 NIL
 NIL
-pricey -1
+pricey -1, worth +1
 NIL
-like +1
+liked +1
 great +1, good +1, great +1, unpretentious +1
 romantic +1, wow +1
 NIL
 NIL
-good +1, top +1
+good +1, generously +1
 great +1
 limited -1
-NIL
+satisfied +1
 limited -1, excellent +1
 crazy +1
 great +1, good +1
@@ -92,12 +92,12 @@ NIL
 delicious +1, satisfied +1
 NIL
 enjoy +1
-perfect +1, well +1
+perfect +1, well +1, dry +1
 friendly +1, helpful +1
 good +1, huge +1
 NIL
 different -1
-NIL
+recommend +1
 best +1
 great +1
 crowded -1, efficient +1, accurate +1
@@ -107,7 +107,7 @@ difficult -1
 friendly +1, better +1
 NIL
 good +1, best +1
-NIL
+fun +1
 NIL
 nice +1, cozy +1, good +1
 NIL
@@ -117,29 +117,29 @@ excited +1
 forgot -1
 NIL
 good +1
-NIL
+good +1
 strong -1
 fantastic +1
 happy +1
 NIL
 NIL
 NIL
-well worth +1
+challenge -1, well worth +1
 good +1, rare +1
 NIL
 recommend +1
 die for +1
 best +1
-NIL
+decent +1
 uneven -1, evident +1
+love +1, delicious +1
 love +1
-love +1
 NIL
-NIL
-NIL
+plenty +1
+tiny -1
 NIL
 worth +1
-incredible +1, recomment +1
+incredible +1, recommend +1
 NIL
 terrible -1, bland -1, unaccommodating -1, horrible -1
 great +1, tasty +1, cheap +1
@@ -148,36 +148,36 @@ good +1
 nice +1, classic +1, upscale +1
 impressed +1
 wonderful +1
-wonderful +1
+wonderful +1, recommend +1
 refined +1, delayed -1
 fantastic +1
 good +1, wondered -1
-crappy -1
+crappy -1, great +1
 NIL
 NIL
-authentic +1, amazin +1
+authentic +1, amazing +1
 NIL
-nice +1, quiet +1, small -1
+nice +1, quiet +1, small -1, enough +1
 relaxed +1, stylish +1
+unwelcome -1
 NIL
-luckily +1
 fancy +1, good +1, right +1
 NIL
 good +1
 look forward +1
 NIL
-NIL
+comfortable +1, good +1, fair +1
 happy +1
 average -1, awful -1, charred -1
 fresh +1, promptly +1
 NIL
 delicious +1
+horrified -1
 NIL
-NIL
-great +1, super quick +1
+great +1, quick +1
 great +1
 NIL
-forgotten -1
+trendi +1, forgotten -1
 disappointed -1
 hats off +1
 NIL
@@ -185,20 +185,20 @@ improved +1, antique-seeming +1
 NIL
 delicious +1, fresh +1, cheap -1, frozen -1, shredded -1
 excellent +1, best +1
-friendly +1
+friendly +1, problem -1
 crowded -1, great +1
 NIL
 unattentive -1, odd -1
 NIL
 bland oily -1
 NIL
-affordable +1, good +1
+better +1, affordable +1, good +1
 fresh +1, ordinary -1
 NIL
 NIL
 favorite +1, good +1
 best +1
-enjoy +1
+funky +1, enjoy +1
 best +1
 NIL
 great +1
@@ -210,15 +210,15 @@ NIL
 ridiculous -1
 saves +1, disappointing -1
 smaller -1, best +1
-good +1
+recommended +1, good +1
 NIL
 love +1
-NIL
+Enjoy +1
 NIL
 favorite +1, missed -1
 NIL
 better +1
-attentive +1, right +1
+attentive +1
 delicious +1
 NIL
 outstanding +1
@@ -226,18 +226,18 @@ cramped -1, busy -1
 romantic +1, horrible -1, pathetic -1
 fun +1, tasty +1
 NIL
-warm +1, soft fluffy +1
+warm +1, soft +1, fluffy +1
 burned -1, stringy -1
 sticky -1
 NIL
 best +1
 NIL
 rude -1, offensive -1
-great +1, stand -1
+great +1
 narrow -1, tiny -1, tiny -1, small -1
 great +1
 desired +1, leafy -1
-extra -1
+NIL
 decent +1, reasonable +1
 conveniently +1
 good +1
@@ -256,11 +256,11 @@ well +1
 NIL
 NIL
 love +1
-particular +1, please +1
+please +1
+fresh +1
 NIL
+clueless -1
 NIL
-clueless -1, more +1, fine +1
-good luck +1
 NIL
 NIL
 great +1
@@ -273,7 +273,7 @@ NIL
 NIL
 NIL
 worst -1
-experienced +1
+NIL
 good +1, overpriced -1, overrated -1
 NIL
 good +1
@@ -283,7 +283,7 @@ NIL
 different +1, happy +1, delicious +1, recommend +1
 NIL
 out of this world +1
-save +1
+NIL
 good +1, good +1
 amazing +1
 impeccable +1, unobtrusive +1
@@ -301,7 +301,7 @@ recommend +1
 great +1
 amazing +1
 good +1
-poor -1, excellent +1
+excellent +1
 overrated -1
 outstanding +1, deserve +1
 impressed +1
@@ -318,15 +318,15 @@ NIL
 NIL
 comparable +1
 recommend +1, wonderful +1
-worth -1
+worth +1
 nice +1
 enjoyable +1
 quick +1
 nice +1, good +1
 love +1, fun +1, young +1
 great +1
-stands out +1
-decent +1, colorful +1, relaxed +1
+nothing stands out -1
+cool +1, decent +1, colorful +1, relaxed +1
 NIL
 worth +1, more than enough +1
 favorites +1
@@ -335,7 +335,7 @@ best +1
 busy -1, fast moving +1
 bad -1
 good +1
-NIL
+sexy +1
 good +1, best +1
 favorite +1
 NIL
@@ -371,10 +371,10 @@ NIL
 NIL
 NIL
 NIL
-agree +1
+NIL
 great +1, nice +1
-wrong -1
-popular +1, sake-friendly +1
+NIL
+popular +1, small +1, sake-friendly +1
 NIL
 pretentious -1, economical +1
 terrific +1, classy +1, attentive +1, overbearing -1
@@ -414,7 +414,7 @@ NIL
 greatest +1
 nice +1, minimalist +1, simple +1, well +1, well +1
 fine +1
-with out -1
+NIL
 liked +1
 attentive +1
 beautiful +1
@@ -437,7 +437,7 @@ great +1, love +1, inexpensive +1
 NIL
 NIL
 attentive +1
-homemade +1, ultra fresh +1
+homemade +1, fresh +1
 overdone -1
 great +1, good +1
 spectacular +1, hand-painted +1
@@ -445,7 +445,7 @@ pleased +1
 NIL
 weird -1
 better +1
-big +1
+big points +1
 pricey -1, worth +1
 good +1
 friendly +1, overly efficient -1
@@ -455,8 +455,8 @@ better +1
 friendly +1, efficient +1
 NIL
 great +1
-without -1
-long overdue -1
+NIL
+long -1, overdue -1
 good +1
 NIL
 fantastic +1
@@ -479,7 +479,7 @@ good +1, enough +1
 warmly +1
 NIL
 NIL
-ok +1, incredibly salty -1
+ok +1, salty -1
 NIL
 unavailable -1
 large +1, cute +1, cozy +1
@@ -498,7 +498,7 @@ recommend +1, great +1, excellent +1
 better +1
 good +1, excellent +1
 NIL
-awesome +1, definitely +1
+awesome +1
 loud -1
 good +1
 best +1
@@ -511,7 +511,7 @@ favorite +1
 amazing +1, hit the spot +1
 great +1
 good +1, inexpensive +1
-favorite +1, unbeliavably good +1
+favorite +1, good +1
 good +1, crappy -1
 crowded -1
 delicious +1, nicest +1
@@ -527,28 +527,28 @@ appealing +1, stuffy -1, overpriced -1
 surprising +1, attentive +1, bad -1
 slow -1
 outstanding +1
-unique +1
+creative +1, unique +1
 good +1
 solid +1, nice +1, reasonable +1
 NIL
 NIL
 excellent +1, salty -1
-surprised +1, bored -1, overcharged -1
+bored -1, overcharged -1
 cheap +1
 noisy -1, fast +1
 amazing +1, good +1, ever-changing +1, great +1
 NIL
-juicy +1, high +1
+juicy +1
 expensive -1
 NIL
 ok +1
 NIL
-NIL
+patient +1, phenomenal +1
 nice +1, great +1
 solid +1, knowledgeable +1, friendly +1, adventurous +1, ever-changing +1
 friendly +1
 NIL
-ok +1
+ok +1, makes up +1
 good +1
 ok +1
 thick -1, soggy -1
@@ -557,7 +557,7 @@ love +1
 look forward +1
 great +1
 appreciate +1
-great +1, regular +1
+great +1
 subpar -1
 friendly +1
 NIL
@@ -571,12 +571,12 @@ outstanding +1, bland -1
 large +1, surprise +1, different +1
 delicious +1
 NIL
-hot tasty +1
+hot +1, tasty +1
 NIL
 great +1, good +1
 helpful +1, friendly +1
 NIL
-good +1
+recommend +1, good +1
 NIL
 NIL
 romantic +1
@@ -598,14 +598,14 @@ pleasant +1
 nice +1, enjoying +1
 NIL
 NIL
-o.k. +1, better +1, good +1
+ok +1, better +1
 great +1, great +1
 better +1
 NIL
 overly expensive -1, better +1, lovely +1
 best +1, authentic +1
 unwanted -1, ignored -1
-impress +1
+NIL
 cold -1
 nonsense -1
 healthful +1
@@ -614,7 +614,7 @@ large +1
 fun +1
 great +1, friendly +1
 good +1
-off -1
+off flavor -1
 impressed +1
 recommend +1
 amazed +1
@@ -648,7 +648,7 @@ beautiful +1
 friendly +1, enjoy +1
 NIL
 NIL
-small -1, lucky +1, quickly +1
+small -1, quickly +1
 NIL
 love +1, cozy +1
 excellent +1, cheap +1
@@ -667,7 +667,7 @@ good +1, relaxing +1
 good +1, great +1, great +1
 NIL
 great +1, great +1
-likes +1, greasy -1, dry -1, tasteless -1
+greasy -1, dry -1, tasteless -1
 NIL
 NIL
 busier -1, crowded -1
@@ -697,9 +697,9 @@ great +1, reasonably +1
 enjoyable +1
 recommend +1, like +1
 amazing +1
-large +1, several +1, authentic +1
+large +1, authentic +1
 fine +1, best +1
-wrong -1
+NIL
 raucous +1
 delicious +1, disappointment -1
 in line +1
@@ -710,7 +710,7 @@ heaven +1
 appetizing +1, delicious +1, fancy +1
 fresh +1, phenomenal +1
 NIL
-terrible -1, avoid -1
+terrible -1
 NIL
 NIL
 surprisingly fresh +1
@@ -719,13 +719,13 @@ marvelous +1
 attentive +1, polite +1, helpful +1, impressive +1
 NIL
 loving +1
-super tasty +1, delicious +1, warned -1
+tasty +1, delicious +1
 high -1, worth +1
 large +1
 helpful +1, busy -1
-classical +1, new +1, innovative +1, tasty +1, genuinely +1, heavy -1
+classical +1, innovative +1, tasty +1, genuinely +1, heavy -1
 caters +1
-pride +1
+NIL
 NIL
 magnificent +1
 nice +1, enjoyable +1
@@ -735,14 +735,14 @@ cute +1
 large -1
 better +1
 great +1, romantic +1
-pleasant +1
+pleasant surprise +1
 NIL
 NIL
 NIL
 NIL
 good +1
 NIL
-fans +1, inedible -1
+inedible -1
 NIL
 terrific +1
 favorite +1
@@ -776,7 +776,7 @@ well worth +1
 loud -1, rude -1, unattentive -1
 NIL
 scared +1, entertained +1, great +1
-wrong -1
+NIL
 good +1
 delight +1, perfect +1
 enjoyed +1
@@ -790,7 +790,7 @@ off-set +1
 attentive +1, busy -1
 mind-blowing +1
 good +1, longer +1
-cheesy +1
+NIL
 loud -1
 fine +1, good +1
 nosiy -1, close -1, beautiful +1, enjoy +1, nice +1
@@ -817,8 +817,8 @@ quality +1, great +1
 sweet +1, accomodating +1, overbearing -1
 NIL
 disappointed -1
-wonderful +1, disappointing -1
-limited -1, perfection +1, ultra fresh +1
+disappointing -1
+limited -1, perfection +1, fresh +1
 wonderful +1
 NIL
 NIL
@@ -839,13 +839,13 @@ good +1
 NIL
 NIL
 NIL
-full +1
-careful -1
-floored +1
+NIL
+NIL
+NIL
 too much -1
 NIL
 pathetic -1
-big enough +1
+big +1
 vibrant +1, eye-pleasing +1, great +1
 quick +1
 NIL
@@ -868,21 +868,21 @@ decrease -1
 large +1
 like +1
 reasonable +1
-complementary +1
+notch +1, complementary +1
 die for +1
 NIL
 favorite +1
 NIL
 NIL
 NIL
-fun +1, live +1, special +1
+fun +1, special +1
 perfect +1, interesting +1
 NIL
 NIL
 hugh +1
 great +1
-like +1, happy +1
-great +1, super happy +1
+like +1
+great +1, happy +1
 NIL
 unlimited +1
 favorite +1
@@ -897,11 +897,11 @@ disappointed -1
 NIL
 NIL
 larger -1
-great big +1
+great +1, big +1
 good +1
 NIL
-NIL
 moist -1, fabulous +1, bland -1, overwhelmed +1
+NIL
 huge +1, biggest +1
 great +1, great +1
 NIL
@@ -910,7 +910,7 @@ loved +1
 NIL
 hurt -1
 outstanding +1
-best +1, freshly +1
+best +1, freshly baked +1
 worth +1
 best +1
 perfect +1
@@ -933,7 +933,7 @@ loved +1, different +1, inovated +1
 NIL
 over cooked -1, non existant -1
 terrific +1, nice +1, good +1
-rude -1
+rude -1, must +1
 great +1, fantastic +1
 unwelcome -1, impressed +1
 good +1, delicious +1
@@ -955,7 +955,7 @@ great +1, great +1
 decent +1, best +1
 NIL
 delayed -1
-average +1, surprising tasty +1
+average or above +1, surprising +1, tasty +1
 good +1
 NIL
 great +1
@@ -964,7 +964,7 @@ thin +1, fresh +1, friendly +1
 NIL
 expensive -1
 undercooked -1, watery -1, raw -1
-enough +1, worth +1
+worth +1
 exciting +1
 secret +1, complimentary +1
 love +1
@@ -976,15 +976,15 @@ NIL
 great +1
 NIL
 limited -1, substantial -1
-recommend +1, quick +1, mid blowing +1
+recommend +1, quick +1, mind blowing +1
 NIL
 long -1, nice +1
 recommend +1
 wonderfully low +1
-NIL
+like +1
 love +1
 disappointed -1, amazingly delicious +1, cheap +1
-enjoy +1, hand-crafted +1
+more +1, enjoy +1, hand-crafted +1
 disappointment -1
 delicious +1
 free +1
@@ -1010,7 +1010,7 @@ delicious +1, fresh +1, elegant +1
 excellent +1, pricey -1, well worth +1
 NIL
 better +1
-filling +1, big +1
+spicy +!, filling +1, big +1
 nice +1, convenient +1, lousy -1
 NIL
 NIL
@@ -1035,7 +1035,7 @@ NIL
 ignored -1
 rude -1, recommend +1
 enjoyable +1
-outrageously good +1
+good +1
 NIL
 disappointment -1
 amazing +1, unique +1, tasty +1, best +1
@@ -1052,7 +1052,7 @@ quiet +1, delightful +1
 NIL
 best +1
 amazing +1
-avoid -1
+NIL
 diamond +1, delicious +1, homemade +1, perfect +1
 NIL
 like +1
@@ -1082,7 +1082,7 @@ well +1
 friendly +1, great +1, like +1
 great +1
 fun +1, love +1
-good +1, overpriced -1, absurdly arrogant -1, glorified +1, clumsy -1
+good +1, overpriced -1, arrogant -1, glorified +1, clumsy -1
 heavenly +1
 scatty -1, forgiven +1
 soggy -1, fresh +1, nice +1, hot +1
@@ -1095,7 +1095,7 @@ best +1, attentive +1, charming +1
 comfortable +1
 fun +1, sublime +1
 forget -1, tiny -1, trouble -1
-miss +1, expensive -1
+expensive -1
 romantic +1
 NIL
 NIL
@@ -1122,7 +1122,7 @@ NIL
 offensive -1
 disappoint -1, pleasant +1, attentive +1
 loud -1
-good +1
+good +1, overpack -1
 NIL
 NIL
 great +1, good +1, reasonable +1
@@ -1140,7 +1140,7 @@ opposite -1
 NIL
 NIL
 great +1
-save +1
+NIL
 best +1, excelent +1
 typical +1, good +1, cheap +1, nice +1
 tender +1
@@ -1174,7 +1174,7 @@ best +1
 NIL
 awesome +1
 great +1
-lot +1
+a lot of +1
 recommend +1, wonderful +1
 tiny -1
 NIL
@@ -1189,7 +1189,7 @@ worst -1
 love +1
 freshest +1, best +1, fastest +1
 1st class +1, terrific +1
-super trendy +1
+super-trendy +1
 NIL
 obnoxious -1, loud -1
 dry -1, tasteless -1, overpriced -1
@@ -1232,7 +1232,7 @@ impressed +1, decent +1
 warm +1, charm +1
 loved +1
 soggy -1
-famous +1, scrumptious +1
+famous +1, scrumptious +1, great +1
 NIL
 incompetent -1
 interesting +1, good +1
@@ -1247,7 +1247,7 @@ NIL
 NIL
 fresh +1, well prepared +1
 worse -1, erroneously -1
-cold -1, enjoy +1
+cold -1
 expensive -1, annoying -1
 NIL
 unlimited +1, high +1, best +1
@@ -1292,7 +1292,7 @@ below average -1
 NIL
 decent +1
 great +1
-saves +1, noisy -1, crowded -1
+noisy -1, crowded -1
 disapointing -1
 favorite +1
 crowded -1
@@ -1314,7 +1314,7 @@ small -1, good +1, fine +1
 great +1, bland -1, undistinguished -1
 delicious +1
 great +1, great +1
-authentic +1, recommend +1, better +1
+authentic +1, recommend +1
 friendly +1, great +1
 perfect +1
 best +1
@@ -1397,7 +1397,7 @@ interrupted -1
 good +1, ok +1
 disapointed -1
 mediocre -1
-great +1
+great surprise +1
 NIL
 spicy +1, delicious +1
 NIL
@@ -1407,7 +1407,7 @@ NIL
 NIL
 unable -1
 good +1
-prix +1
+NIL
 eye catching +1, roomier +1
 NIL
 delicous +1
@@ -1430,16 +1430,16 @@ NIL
 NIL
 NIL
 disappointed -1
-NIL
+good +1, regular -1, nothing special -1
 good +1
 favorite +1
 NIL
 worth +1, cool +1, well +1
 perfect +1
 great +1, good +1, good +1
-absolute +1
 NIL
-fancy +1, good +1, reasonable +1
+NIL
+nothing fancy -1, good +1, reasonable +1
 exceptional +1, huge +1, delictable +1, professional +1, warm +1
 liked +1
 satisfied +1
@@ -1455,7 +1455,7 @@ good +1, wonderful +1
 NIL
 excellent +1
 noisy -1, overlooked +1, enjoy +1, great +1
-NIL
+fan +1
 NIL
 proper +1
 fantastic +1, perfect +1
@@ -1463,7 +1463,7 @@ good +1
 NIL
 enjoy +1
 NIL
-pricey -1, cost effective +1
+pricey -1, over stuffed -1, cost effective +1
 fair +1
 expect +1
 love +1
@@ -1476,7 +1476,7 @@ pleasantly suprised +1
 good +1
 NIL
 NIL
-perfectly +1
+NIL
 changed -1, smaller -1, salty -1, lacked -1
 sleek +1, modern +1, cool +1
 nice +1, great +1
@@ -1510,7 +1510,7 @@ NIL
 worth +1
 extreme +1, dull -1
 empty -1
-exceeded +1, lot +1
+exceeded +1, a lot of +1
 delightful +1, impeccable +1
 excellent +1, well +1
 tasty +1, expensive -1
@@ -1534,7 +1534,7 @@ unpleasant -1
 good +1, awesome +1, great +1
 knowledgeable +1
 great +1
-complaint -1, worry -1
+complaint -1, average -1, worry about -1
 delightful +1
 amazing +1
 NIL
@@ -1556,7 +1556,7 @@ authentic +1, relaxing +1, attentive +1, prompt +1
 fresh +1, authentic +1, substantial +1
 screwed up -1
 surprise +1, delicious +1, fresh +1
-wrong -1
+NIL
 expensive -1
 young +1, energeic +1, hot +1
 better +1
@@ -1601,7 +1601,7 @@ NIL
 NIL
 charmingly small +1, cozy +1, romantic +1
 NIL
-special +1, limited -1
+nothing special -1, limited -1
 love +1
 excellent +1
 NIL
@@ -1620,14 +1620,14 @@ recommended +1
 yummy +1, authentic +1
 well worth +1
 late -1
-cool enough +1
+cool +1
 fast +1
 attentive +1
 best +1
 great +1
 largest +1, freshest +1, delicious +1
 delicious +1
-lot +1
+a lot of +1
 like +1, poorly -1, awful -1
 NIL
 NIL
@@ -1677,7 +1677,7 @@ pricey -1, spectacular +1
 great +1, interesting +1, accessible +1
 NIL
 NIL
-worried -1
+short +1
 huge +1, loved +1
 good +1
 NIL
@@ -1685,7 +1685,7 @@ awful -1
 NIL
 cute +1, artsy +1, interesting +1
 good +1
-over -1
+NIL
 happy +1, recommend +1
 excellent +1
 nice +1, great +1
@@ -1696,7 +1696,7 @@ rarely +1, full +1
 sastifying +1
 recommend +1
 recommend +1
-well +1, interesting +1, well +1
+well stocked +1, interesting +1, well +1
 NIL
 NIL
 good +1
@@ -1714,7 +1714,7 @@ parched -1
 great +1, fast +1
 attentive +1, friendly +1, attractive +1
 high +1
-average +1
+average -1
 nice +1, typical +1, terrific +1
 NIL
 forgot -1
@@ -1768,7 +1768,7 @@ packed -1, noisy -1
 NIL
 NIL
 courteous +1, friendly +1
-fails -1
+please +1
 nice +1, spotty -1
 rushed -1, impressed +1
 NIL
@@ -1810,7 +1810,7 @@ good +1, terrific +1
 cold -1, filling +1
 NIL
 memorable +1, repeatable +1
-o.k. +1
+ok +1
 loved +1, recommend +1
 NIL
 decent +1, best +1, sweet +1, annoying -1
@@ -1886,7 +1886,7 @@ slow -1
 excellent +1, less fatty +1
 cute +1, nice +1
 good +1
-truly +1
+NIL
 rude -1
 worth +1
 great +1
@@ -1934,7 +1934,7 @@ great +1, reasonable +1
 delicious +1
 delighted +1
 NIL
-top +1
+NIL
 loved +1
 better +1
 less +1
@@ -1951,8 +1951,8 @@ recommend +1
 sweet +1
 NIL
 NIL
-NIL
-rude -1, below average -1
+Rocks +1
+soft -1, soggy -1, rude -1, below average -1
 delicious +1
 terrific +1
 favorite +1, great +1
@@ -1975,7 +1975,7 @@ fast +1, friendly +1, tasty +1, best +1
 ok +1
 NIL
 loud -1
-integral +1, fine +1
+integral +1
 recommend +1
 NIL
 great +1
@@ -1992,7 +1992,7 @@ great +1, best +1
 good +1, good +1, hip +1
 worth +1
 empty -1
-NIL
+good +1
 drawn +1
 sad-looking -1, clear +1, healthy-looking +1
 salty -1, so so -1, poor -1
@@ -2045,7 +2045,7 @@ NIL
 NIL
 pricey -1
 NIL
-lots +1
+lots of +1
 NIL
 friendliest +1, competent +1
 large +1
@@ -2079,7 +2079,7 @@ recommend +1
 NIL
 good +1, too rich -1, too sweet -1
 melted +1, warm +1, oozing +1
-truly memorable +1, helpful +1
+memorable +1, helpful +1
 NIL
 cramped +1
 NIL
@@ -2136,7 +2136,7 @@ rude -1
 worth +1
 romantic +1, good +1
 fast +1
-popular +1, few -1, greatly enjoyed +1, unobtrustive +1
+popular +1, few -1, enjoyed +1, unobtrustive +1
 good +1, better +1
 better +1, better +1
 quick +1, sufficient +1
@@ -2170,7 +2170,7 @@ recommended +1, recommend +1
 NIL
 devine +1
 less doughy +1
-delicious authentic +1
+delicious +1, authentic +1
 attentive +1, discreet -1
 NIL
 NIL
@@ -2253,7 +2253,7 @@ friendly +1
 NIL
 NIL
 recommended +1
-superior fine +1, superb +1, reasonable +1
+superior +1, superb +1, reasonable +1
 NIL
 friendlier +1
 cozy +1
@@ -2268,7 +2268,7 @@ impossible -1
 delicious +1, fantastic +1
 good +1
 fresh +1, unobtrusive +1, flashy -1
-like +1, wrong -1, evil -1, incompetent -1
+like +1, evil -1, incompetent -1
 flavorless -1
 NIL
 loves +1, liked +1
@@ -2286,7 +2286,7 @@ elegantly +1, dry -1
 NIL
 generous +1
 NIL
-wrong -1
+NIL
 good +1
 delicious +1
 great +1
@@ -2298,7 +2298,7 @@ lacking -1, best +1
 recommend +1, casual +1
 NIL
 so-so -1
-comforting +1, delightfully warm +1, gracious +1
+comforting +1, warm +1, gracious +1
 liked +1
 better +1
 slipped -1
@@ -2340,7 +2340,7 @@ best +1
 ok +1, well +1
 good +1
 amazing +1, out of this world +1
-truly unprofessional -1, good +1, great +1
+unprofessional -1, good +1, great +1
 lack -1, ideal +1, rudely -1
 limited -1
 impeccable +1
@@ -2363,7 +2363,7 @@ best +1
 yummy +1, cooked-to-perfection +1, crispy +1
 authentic +1, delicious +1
 great +1
-NIL
+skip -1
 disappointed -1
 amazing +1
 NIL
@@ -2497,7 +2497,7 @@ craving +1
 plenty +1
 spectacular +1
 nice +1
-delicious +1incredibly +1
+delicious +1, incredibly +1
 authentic +1, famous +1
 good +1
 NIL
@@ -2565,7 +2565,7 @@ NIL
 delicious +1, perfect +1
 great +1, perfect +1
 NIL
-lot -1, better +1, worse -1
+a lot -1, better +1, worse -1
 great +1
 love +1
 excellent +1, decent +1
