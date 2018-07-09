@@ -136,9 +136,8 @@ def backprop(params, tree, d, c, len_voc, grads, mixed = False):
         # delta_node
         delta = Wc.T.dot(node.label_delta)
         curr_der = der_tanh(node.p)
-        node.delta_node = np.multiply(delta, curr_der)
-        
-        node.delta_full = delta_down + node.delta_node
+        node.delta_full = np.multiply(delta + delta_down, curr_der)
+    
 
         # internal node
         if len(node.kids) > 0:
